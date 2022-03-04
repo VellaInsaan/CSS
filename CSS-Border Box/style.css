@@ -1,0 +1,21 @@
+.color1 {
+  box-sizing: content-box;
+  height: 120px;
+  width: 120px;
+  padding: 30px;
+  background-color: black;
+}
+
+.midScale {
+  height: 120px;
+  width: 30%;
+  background-color: gray;
+}
+
+.color2 {
+  box-sizing: border-box;
+  height: 120px;
+  width: 120px;
+  padding: 30px;
+  background-color: rgb(196, 1, 1);
+}

@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
+    
+}
+
+h1{
+    margin: 0 auto 0 auto;
+    font-family: 'Ma Shan Zheng', cursive;
+    font-size: 4em;
+    color:  #66BFBF;
+    font-weight: normal;
+    line-height: 150%;
+    
+}
+
+h2 {
+    font-size: 2.6rem;
+    color : #66BFBF;
+
+}
+
+h3{
+    color: #11999E;
+    font-weight: normal;
+}
+
+hr { 
+    border-style: dotted;
+    border-top: 0;
+    border-width: 10px;
+    border-color: #EAF6F6;
+    margin: 100px auto 100px auto ;
+    width: 4%;
+}
+.contact-me {
+padding-bottom: 4%;
+}
+.top{
+    background-color: #E4f9f5;
+    position: relative;
+    padding: 100px;
+    
+}
+
+.namaste {
+    position: relative;
+    margin-top: 40px;
+    
+}
+
+a {
+    margin: 0 20px 50px 20px;
+    color: #11999E;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px 400px 100px auto;
+    
+}
+
+.bottom{
+    background-color: #66BFBF;
+    padding: 20px 0 10px 0;     
+
+    
+}
+
+.ucloud
+{   
+    position: absolute;
+    right: 400px;
+}
+
+.bcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.c{
+    float: left;
+}
+
+.c2{
+    float: left;
+}
+
+.copyright {
+    color: #EAF6F6;
+    
+}
+
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 14px;
+    color: #FFFFFF;
+    font-family: 'Mukta', sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    padding: 10px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 20px;
+ }
+
+
